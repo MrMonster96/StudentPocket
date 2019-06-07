@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">StudentPocket</string>
+    <string name="welcome">Welcome!</string>
+    <string name="enteremail">Enter User Email</string>
+    <string name="enterpassword">Enter Password</string>
+    <string name="logintag">Login</string>
+    <string name="forget_pass">Forget Password</string>
+    <string name="register_tag">Register or Sign UP</string>
+    <string name="tnc">By continuing you agree to our \n Terms and Condition and Privacy Policy</string>
+    <string name="logo_desc">This is Logo Image</string>
+    <string name="s1">Increase Your Pocket In Few Minutes and Pay in a Month.\n
+    </string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="slide1"> Get Instant Loans For Student </string>
+    <string name="slide2">Get Money in Your Paytm wallet or bank account</string>
+    <string name="slide3">Earn rewards by connecting with friends</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="finish">Finish</string>
 </resources>
