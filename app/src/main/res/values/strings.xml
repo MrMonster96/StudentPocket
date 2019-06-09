@@ -19,4 +19,12 @@
     <string name="next">Next</string>
     <string name="back">Back</string>
     <string name="finish">Finish</string>
+    <string name="tag_line">WELCOME TO STUDENT POCKET</string>
+
+
+    <string name="permissiion_preferences">PERMISSION_PREFERENCE</string>
+    <string name="permissiion_camera">PERMISSION_CAMERA</string>
+    <string name="permissiion_storage">PERMISSION_STORAGE</string>
+    <string name="permissiion_contacts">PERMISSION_CONTACTS</string>
+
 </resources>
